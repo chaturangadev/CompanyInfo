@@ -34,7 +34,7 @@ Easily manage and update your website content:
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
-- **Backend:** PHP (Core or Laravel-compatible structure)  
+- **Backend:** PHP (Core)  
 - **Database:** MySQL  
 - **Admin Template:** Custom PHP-based panel with responsive layout  
 
@@ -75,7 +75,7 @@ Password: 123456
 - Multi-language support  
 - SEO management tools  
 - User role permissions  
-
+- New pages (Careers, Team, etc.)
 ---
 
 ## 🤝 Contributing
